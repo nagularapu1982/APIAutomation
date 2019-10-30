@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9373" started-at="2019-10-30T19:18:41Z" finished-at="2019-10-30T19:18:50Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9373" started-at="2019-10-30T19:18:41Z" finished-at="2019-10-30T19:18:50Z">
+      <class name="sensynehealth.SenSynHealthApi">
+        <test-method status="PASS" signature="test_ListOfProducts()[pri:0, instance:sensynehealth.SenSynHealthApi@cb5822]" name="test_ListOfProducts" duration-ms="7332" started-at="2019-10-30T19:18:41Z" finished-at="2019-10-30T19:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ListOfProducts -->
+        <test-method status="PASS" signature="test_addProduct()[pri:0, instance:sensynehealth.SenSynHealthApi@cb5822]" name="test_addProduct" duration-ms="546" started-at="2019-10-30T19:18:48Z" finished-at="2019-10-30T19:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addProduct -->
+        <test-method status="PASS" signature="test_deleteProduct()[pri:0, instance:sensynehealth.SenSynHealthApi@cb5822]" name="test_deleteProduct" duration-ms="64" started-at="2019-10-30T19:18:49Z" finished-at="2019-10-30T19:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteProduct -->
+        <test-method status="PASS" signature="test_getProduct()[pri:0, instance:sensynehealth.SenSynHealthApi@cb5822]" name="test_getProduct" duration-ms="1030" started-at="2019-10-30T19:18:49Z" finished-at="2019-10-30T19:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getProduct -->
+        <test-method status="PASS" signature="test_updateProduct_withPrice()[pri:0, instance:sensynehealth.SenSynHealthApi@cb5822]" name="test_updateProduct_withPrice" duration-ms="133" started-at="2019-10-30T19:18:50Z" finished-at="2019-10-30T19:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateProduct_withPrice -->
+      </class> <!-- sensynehealth.SenSynHealthApi -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
